@@ -1,0 +1,9 @@
+public/videos/aquatic-plants-bg.mp4
+public/videos/healthy-fish-bg.webm
+public/videos/fishhub-experience-bg.mp4
+public/videos/footer-fish-bg.mp4
+public/videos/contact-bg.mp4
+dist
+node_modules
+vite-dev.log
+vite-dev.err.log
